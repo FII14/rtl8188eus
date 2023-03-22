@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/diuji%20pada-kali%20linux-blue)
 ## Install Driver Wifi Realtek RTL8188EUS di Kali Linux
 ```sh
 apt-get update
