@@ -1,4 +1,4 @@
-#!/bin/basha
+#!/bin/bash
 # script untuk mengatifkan mode moitor
 
 ifconfig wlan0 down
