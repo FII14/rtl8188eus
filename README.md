@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/diuji%20pada-kali%20linux-blue)
 ![](https://img.shields.io/badge/tplink-tlwn722n-brightgreen)
-## Install Driver Wifi Realtek RTL8188EUS di Kali Linux
+## Install Realtek RTL8188EUS Wifi Driver on Kali Linux
 ```sh
 apt-get update
 apt-get upgrade 
