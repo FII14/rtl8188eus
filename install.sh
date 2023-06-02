@@ -14,7 +14,7 @@ install_driver(){
         make
         make install
         modprobe 8188eu
-	echo "RReebot Kali Linux, and run the script mode_monitor.sh"
+	echo "Reebot Kali Linux, and run the script mode_monitor.sh"
 	exit 0
 }
 
