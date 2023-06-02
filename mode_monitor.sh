@@ -2,7 +2,7 @@
 # script untuk mengatifkan mode moitor
 
 ifconfig wlan0 down
-airmon check kill
+airmon-ng check kill
 iwconfig wlan0 mode monitor
 ifconfig wlan0 up
 iwconfig
