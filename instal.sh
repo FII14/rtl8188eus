@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Program : mengatifkan mode moitor
+# Program : Instal Driver Wifi Realtek RTL8188EUS di Kali Linux
 # Pembuat : Rofi [FII14]
 # GitHub  : https://github.com/FII14/rtl8188eus
 
