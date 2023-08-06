@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Program : mengatifkan mode moitor
+# Pembuat : Rofi [FII14]
+# GitHub  : https://github.com/FII14/rtl8188eus
+
 instal_driver(){
         apt-get install bc
         apt-get install build-essential
